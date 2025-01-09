@@ -3,10 +3,10 @@ import os
 import time
 
 # Import mlflow & initiate client
-#import mlflow
-#import mlflow.sklearn
-#import mlflow.tracking
-#import mlflow.projects
+import mlflow
+import mlflow.sklearn
+import mlflow.tracking
+import mlflow.projects
 
  
 #initialize Domino Project
